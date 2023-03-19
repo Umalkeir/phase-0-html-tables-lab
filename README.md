@@ -110,7 +110,7 @@ phone numbers and items for guests to bring. An example row would look like the
 following:
 
 ```html
-<tr>
+          
   <td>Daniel</td>
   <td>845-282-4000</td>
   <td>Guacamole</td>
